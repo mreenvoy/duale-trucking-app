@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/duale-trucking-app/static/css/main.e6c13ad2.css",
-    "main.js": "/duale-trucking-app/static/js/main.670887f0.js",
+    "main.js": "/duale-trucking-app/static/js/main.05c674a6.js",
     "static/js/453.477d0cfc.chunk.js": "/duale-trucking-app/static/js/453.477d0cfc.chunk.js",
     "index.html": "/duale-trucking-app/index.html",
     "main.e6c13ad2.css.map": "/duale-trucking-app/static/css/main.e6c13ad2.css.map",
-    "main.670887f0.js.map": "/duale-trucking-app/static/js/main.670887f0.js.map",
+    "main.05c674a6.js.map": "/duale-trucking-app/static/js/main.05c674a6.js.map",
     "453.477d0cfc.chunk.js.map": "/duale-trucking-app/static/js/453.477d0cfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.670887f0.js"
+    "static/js/main.05c674a6.js"
   ]
 }
